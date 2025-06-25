@@ -27,13 +27,13 @@ function AppNavbar() {
           </div>
         </Form>
         <Button style={{paddingLeft:"350px"}} variant="outline-light">
-          <img src="./src/assets/Notification.svg" />
+          <img src="/Notification.svg" />
         </Button>
         <div className="vertical-line"></div>
         <img
           style={{ height: "50px", width: "50px" }}
           alt="Profile"
-          src="./src/assets/MyPhotocircle.png"
+          src="/MyPhotocircle.png"
         />
         <p>
           Prakash
@@ -41,7 +41,7 @@ function AppNavbar() {
           Admin
         </p>
         <Button variant="outline-light">
-          <img src="./src/assets/dropArrow.svg" />
+          <img src="/dropArrow.svg" />
         </Button>
       </Container>
     </Navbar>

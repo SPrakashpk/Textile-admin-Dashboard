@@ -159,7 +159,7 @@ export default function Dashboard() {
             <Card bg="light" className="row-1 app-border">
               <Row>
                 <Col xs={4}>
-                  <Card.Img src="./src/assets/shirt.svg" />
+                  <Card.Img src="/shirt.svg" />
                 </Col>
                 <Col xs={8}>
                   <Card.Text className="num">800</Card.Text>
@@ -172,7 +172,7 @@ export default function Dashboard() {
             <Card bg="light" className="sm-3 row-1 app-border">
               <Row>
                 <Col xs={4}>
-                  <Card.Img src="./src/assets/womensdress.svg" />
+                  <Card.Img src="/womensdress.svg" />
                 </Col>
                 <Col xs={8}>
                   <Card.Text className="num">600</Card.Text>
@@ -185,7 +185,7 @@ export default function Dashboard() {
             <Card bg="light" className="sm-3 row-1 app-border">
               <Row>
                 <Col xs={4}>
-                  <Card.Img src="./src/assets/kidsdress.svg" />
+                  <Card.Img src="/kidsdress.svg" />
                 </Col>
                 <Col xs={8}>
                   <Card.Text className="num">400</Card.Text>
@@ -198,7 +198,7 @@ export default function Dashboard() {
             <Card bg="light" className="sm-3 row-1 app-border">
               <Row>
                 <Col xs={4}>
-                  <Card.Img src="./src/assets/accessories.svg" />
+                  <Card.Img src="/accessories.svg" />
                 </Col>
                 <Col xs={8}>
                   <Card.Text className="num">250</Card.Text>

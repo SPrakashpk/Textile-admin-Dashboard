@@ -9,10 +9,10 @@ import DeleteIcon from "@mui/icons-material/Delete";
 import { useDropzone } from "react-dropzone";
 
 // Images
-import Mens from "../assets/Mens.jpg";
-import Womens from "../assets/Womens.jpg";
-import Kids from "../assets/Kids.jpg";
-import Others from "../assets/Others.jpg";
+import Mens from "/Mens.jpg";
+import Womens from "/Womens.jpg";
+import Kids from "/Kids.jpg";
+import Others from "/Others.jpg";
 
 // Default ads
 const initialAds = [
