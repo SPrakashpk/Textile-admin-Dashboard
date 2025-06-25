@@ -1,0 +1,50 @@
+.app-border{
+  border: 2px solid #005226 !important;
+   
+}
+
+.font{
+  font-family: roboto;
+}
+
+.app-btn{
+  color:#005226;
+  border: 2px solid #005226 !important;
+  border-radius: 3px;
+  background-color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 600;
+  height: 30px !important;
+  width: 73px !important;
+}
+
+
+.app-data-table {
+    margin-left: 15px !important;
+    width: -webkit-fill-available;
+    margin-right: 15px !important;
+
+    tr {
+        line-height: 37px;
+    }
+
+    td {
+        color: #505050;
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    th {
+        color: #505050;
+        font-weight: 600;
+        font-size: 18px;
+        background-color: #FFFFFF;
+    }
+
+    thead {
+        border: none !important;
+    }
+
+
+}
+

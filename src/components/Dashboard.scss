@@ -1,0 +1,75 @@
+.row-1 {
+    height: 100px;
+}
+
+.num{
+        font-family: Roboto;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 12px;
+color: #005226;
+}
+
+.text{
+    font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+
+.row-2 {
+    height: 309px;
+}
+
+.row-3 {
+    height: 356px;
+}
+
+.row-4 {
+    height: 356px;
+    padding-bottom: 15px;
+}
+
+.row {
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+
+.card-img {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 6px;
+    left: 6px;
+}
+
+
+
+.bar-chart{
+    width: 100%;
+    height: 100%;
+    margin-left: -155px;
+}
+
+.card-header {
+    color: #005226;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #FFFFFF !important;
+}
+
+.card {
+    background-color: #FFFFFF !important;
+}
+
+.action-btn {
+    position: absolute;
+    right: 25px;
+    top: 17px;
+}
